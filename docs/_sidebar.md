@@ -7,5 +7,5 @@
 * [杂](杂)
 
 * [问题小记](问题小记)
-* [just for test](just for test.md)
+* [just for test](justfortest.md)
 
