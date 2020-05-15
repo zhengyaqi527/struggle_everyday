@@ -6,6 +6,6 @@
 
 * [杂](杂)
 
-* [问题小记](问题小记)
+* [问题小记](问题小记/README.md)
 * [just for test](justfortest.md)
 
