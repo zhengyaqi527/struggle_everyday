@@ -12,10 +12,35 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'struggle_everyday',
+      repo: 'https://github.com/zhengyaqi527/struggle_everyday.git',
+      coverpage: true,
+      auto2top: true,
+      loadSidebar: true,
+      subMaxLevel: 5,
+      loadNavbar: true,
+      mergeNavbar: true,
+      homepage: 'README.md',
+      themeColor: '#008B8B',
+      formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
+      serch: 'auto',
+      disqus: 'minium',
+      alias: {
+      
+      },
+      
+      
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="vendor/docsify.js"></script>
+  <script src="vendor/js/prism-bash.js"></script>
+  <script src="vendor/js/prism-python.js"></script>
+  <script src="vendor/js/prism-javascript.js"></script>
+  <script src="vendor/js/prism-markdown.js"></script>
+  <script src="vendor/plugins/zoom-image.js"></script>
+  <script src="vendor/plugins/docsify-copy-code-2.1.0.min.js"></script>
+  <script src="vendor/plugins/search.js"></script>
+  <script src="vendor/plugins/disqus.min.js"></script>  
 </body>
 </html>
