@@ -1,12 +1,11 @@
-* [docsify](docs/docsify)
+* [docsify](docsify)
 
-* [linux](docs/linux)
+* [linux](linux)
 
-* [linux日常](docs/linux/linux日常)
+* [linux日常](linux/linux日常)
 
-* [杂](docs/杂)
+* [杂](杂)
 
-* [问题小记](docs/问题小记)
-
+* [问题小记](问题小记)
 * [just for test](just for test.md)
 
