@@ -1,11 +1,3 @@
-* [docsify](docsify)
-
-* [linux](linux)
-
-* [linux日常](linux/linux日常)
-
-* [杂](杂)
-
-* [问题小记](问题小记/README.md)
-* [just for test](justfortest.md)
+- docsify
+  - [docsify安装及启动](docsify/docsify安装及启动.md)
 
