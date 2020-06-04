@@ -25,10 +25,10 @@
   - [shell脚本](linux/20200426_shell脚本.md)
   
 - normal life
-  - [Q2安排](normal life/Q2安排.md)
-  - [居住证办理](normal life/居住证办理.md)
-  - [蛋蛋的猫饭](normal life/蛋蛋的猫饭.md)
-  - [蛋蛋的绝育手术](normal life/蛋蛋的绝育手术.md)
+  - [Q2安排](normal_life/Q2安排.md)
+  - [居住证办理](normal_life/居住证办理.md)
+  - [蛋蛋的猫饭](normal_life/蛋蛋的猫饭.md)
+  - [蛋蛋的绝育手术](normal_life/蛋蛋的绝育手术.md)
   
 - 问题小记
 
