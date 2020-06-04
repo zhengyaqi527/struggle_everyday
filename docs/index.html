@@ -28,10 +28,13 @@
       alias: {
       	'/.*/_sidebar.md': '/_sidebar.md'
       },
-      
+      plugins: [
+	EditOnGithubPlugin.create('https://github.com/zhengyaqi527/struggle_everyday/tree/master/docs', null, 'Edit on github')
+      ],
       
     }
   </script>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="vendor/docsify.js"></script>
   <script src="vendor/js/prism-bash.js"></script>
