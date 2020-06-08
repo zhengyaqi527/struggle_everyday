@@ -1,7 +1,6 @@
 - **docsify**
   - [docsify安装及启动](docsify/docsify安装及启动.md)
   - [docsify使用](docsify/docsify使用.md)
-  
 - **linux**
   - [用户群组权限控制](linux/20200309_用户群组权限控制.md)
   - [RTFM](linux/20200310_RTFM.md)
@@ -23,16 +22,15 @@
   - [bash操作](linux/20200421_bash操作.md)
   - [正则表达式与文件格式化处理](linux/20200422_正则表达式与文件格式化处理.md)
   - [shell脚本](linux/20200426_shell脚本.md)
-  
 - **normal life**
   - [Q2安排](normal_life/Q2安排.md)
   - [居住证办理](normal_life/居住证办理.md)
   - [蛋蛋的猫饭](normal_life/蛋蛋的猫饭.md)
   - [蛋蛋的绝育手术](normal_life/蛋蛋的绝育手术.md)
-  
 - **问题小记**
   - [ubuntu给普通用户添加root权限](问题小记/20200506_ubuntu给普通用户添加root权限.md)
   - [git设置用户名邮箱](问题小记/20200513_git设置用户名邮箱.md)
 
-  
+- 转载
+  - [github网页图片加载失败](转载/github网页图片加载失败.html)
 
