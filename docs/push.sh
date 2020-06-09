@@ -1,6 +1,6 @@
 #!/bin/bash
 
+msg=$1
 git add .
-read -p 'Please enter commit message: ' message
-git commit -m $message
+git commit -m "${msg}"
 git push origin master
