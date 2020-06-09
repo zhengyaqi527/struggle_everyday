@@ -42,9 +42,13 @@
         },
         isExpected: true
       },
+      plugin: [
+	EditOnGithubPlugin.create('https://github.com/zhengyaqi527/struggle_everyday/tree/master/docs', null, 'edit on github')      
+      ],
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="vendor/js/edit-on-github.js"></script>
+  <script src="vendor/js/docsify.min.js"></script>
   <script src="vendor/docsify.js"></script>
   <script src="vendor/js/prism-bash.js"></script>
   <script src="vendor/js/prism-python.js"></script>
@@ -53,7 +57,7 @@
   <script src="vendor/plugins/zoom-image.js"></script>
   <script src="vendor/plugins/docsify-copy-code-2.1.0.min.js"></script>
   <script src="vendor/plugins/search.js"></script>
-  <script src="vendor/plugins/disqus.min.js"></script>  
-  <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+  <script src="vendor/plugins/disqus.min.js"></script>
+  <script src="vendor/plugins/dountable.min.js"></script>
 </body>
 </html>
