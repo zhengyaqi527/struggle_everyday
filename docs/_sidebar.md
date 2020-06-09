@@ -33,6 +33,3 @@
 
 - **转载**
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
-
-- **杂**
-  - [test_tab](杂/test_tab.md)
