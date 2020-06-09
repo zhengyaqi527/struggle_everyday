@@ -16,7 +16,7 @@
   - [文件传输](linux/20200324_文件传输.md)
   - [统计网络及防火墙](linux/20200325_统计网络及防火墙.md)
   - [源码编译](linux/20200326_源码编译.md)
-  - [vim操作.md](linux/20200330_vim操作.md)
+  - [vim操作](linux/20200330_vim操作.md)
   - [shell介绍](linux/20200413_shell介绍.md)
   - [shell变量](linux/20200414_shell变量.md)
   - [bash操作](linux/20200421_bash操作.md)
