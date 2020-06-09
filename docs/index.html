@@ -22,7 +22,7 @@
       homepage: 'README.md',
       themeColor: '#008B8B',
       formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
-      serch: 'auto',
+      search: 'auto',
       alias: {
       	'/.*/_sidebar.md': '/_sidebar.md'
       },
@@ -40,9 +40,9 @@
         },
         isExpected: true
       },
-   //   plugin: [
-   //     EditOnGithubPlugin.create('https://github.com/zhengyaqi527/struggle_everyday/tree/master/docs', null, 'edit on github')      
-   //   ],
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/zhengyaqi527/struggle_everyday/tree/master/docs/')      
+      ],
     }
   </script>
   <script src="vendor/js/docsify.min.js"></script>
