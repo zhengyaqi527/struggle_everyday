@@ -18,7 +18,7 @@
       coverpage: true,
       auto2top: true,
       loadSidebar: true,
-      loadNavbar: true,
+      notFoundPage: true,
       subMaxLevel: 5,
       ga: 'UA-168888786-1',
       mergeNavbar: true,
@@ -45,6 +45,11 @@
       },
     }
   </script>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>	
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
