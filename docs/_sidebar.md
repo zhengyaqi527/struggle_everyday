@@ -33,6 +33,7 @@
 
 - **转载**
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
+  - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
 
 - **404测试专用**
   - [这是个404页面](404测试.md)
