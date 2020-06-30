@@ -37,4 +37,4 @@
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
 
 - **404测试专用**
-  - [这是个404页面](404测试.md)
+  - [测试用404页面](404测试.md)

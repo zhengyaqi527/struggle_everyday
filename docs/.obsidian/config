@@ -1,0 +1,90 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "workspaceLayout": {
+    "id": "e97b5decc652632c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3398f5385a7b7952",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "转载/Github网页上图片显示失败.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "fe47ab92c73e6136",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4f651ada16332a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f063f2367763040",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a0f0a99d9fb5e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230
+  },
+  "rightSidedock": {
+    "id": "ae5616712b57f997",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a27da965f823af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073fec084c5ac1a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "转载/Github网页上图片显示失败.md",
+    "问题小记/20200506_ubuntu给普通用户添加root权限.md"
+  ],
+  "showLineNumber": true
+}
