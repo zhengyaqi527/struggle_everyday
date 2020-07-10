@@ -1,9 +1,9 @@
 #### 必装软件
 
 * [x] chrome
-* [ ] slack
+* [x] slack
 * [x] everyting
-* [ ] office n件套（word、excle、ppt、onenote  2016版本）
+* [x] office n件套（word、excle、ppt、onenote  2016版本）
 * [x] 欧陆词典
 * [x] proxifer
 * [x] typora
@@ -17,10 +17,10 @@
 > 或者：桌面空白处鼠标右键---个性化--左上角点主页/设置--更新与安全--点激活--更改密钥即可  
 
 * [x] ubuntu
-* [ ] windows terminal
+* [x] windows terminal
 
 #### 开发环境
 
-* [ ] nodejs
-* [ ] python3
+* [x] nodejs
+* [x] python3
 
