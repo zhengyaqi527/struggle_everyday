@@ -101,7 +101,7 @@
   | `[attr]`        | `a[title]`            | 匹配带有一个名为`attr`属性的元素                             |
   | `[attr=value]`  | `a[href="xxx"]`       | 匹配带有一个名为`attr`属性且属性值精确为`xxx`的元素          |
   | `[attr~=value]` | `p[class~="special"]` | 匹配带有一个名为`attr`属性且属性值精确为`special`或者s属性值列表中包含`special`的元素（属性值列表用空格分割） |
-  | `[attr|=value]` | `div[lang!="zh"]`     | 匹配带有一个名为`attr`属性且属性值精确为`zh`或者是以`zh`开头后跟一个`-`的元素 |
+  | `[attr|=value]` | `div[lang|="zh"]`     | 匹配带有一个名为`attr`属性且属性值精确为`zh`或者是以`zh`开头后跟一个`-`的元素 |
 
   ```css
   li[class] {
