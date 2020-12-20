@@ -47,6 +47,7 @@
   - [pip|virtualenv|virtualenvwrapper](问题小记/20200803_pip等.md)
   - [source命令](问题小记/20200810_source命令.md)
   - [python中的下划线](问题小记/20200912_python中的'_'.md)
+  - [百度查询结果数量爬取](问题小记/百度查询结果数量爬取.md)
   
 - **转载**
   
