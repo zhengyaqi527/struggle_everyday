@@ -1,7 +1,6 @@
 - **docsify**
   - [docsify安装及启动](docsify/docsify安装及启动.md)
   - [docsify使用](docsify/docsify使用.md)
-  
 - **linux**
   - [用户群组权限控制](linux/20200309_用户群组权限控制.md)
   - [RTFM](linux/20200310_RTFM.md)
@@ -23,7 +22,6 @@
   - [bash操作](linux/20200421_bash操作.md)
   - [正则表达式与文件格式化处理](linux/20200422_正则表达式与文件格式化处理.md)
   - [shell脚本](linux/20200426_shell脚本.md)
-  
 - css入门之路
 
   - [01_how_css_works](css入门之路/01_how_css_works.md)
@@ -31,14 +29,12 @@
   - [03_cascade_and_inheriance](css入门之路/03_cascade_and_inheriance.md)
   - [04_selectors_summary](css入门之路/04_selectors_summary.md)
   - [05_Selectors_detail](css入门之路/05_Selectors_detail.md)
-
 - **normal life**
   
   - [Q2安排](normal_life/Q2安排.md)
   - [居住证办理](normal_life/居住证办理.md)
   - [蛋蛋的猫饭](normal_life/蛋蛋的猫饭.md)
   - [蛋蛋的绝育手术](normal_life/蛋蛋的绝育手术.md)
-  
 - **问题小记**
   - [ubuntu给普通用户添加root权限](问题小记/20200506_ubuntu给普通用户添加root权限.md)
   - [git设置用户名邮箱](问题小记/20200513_git设置用户名邮箱.md)
@@ -48,20 +44,26 @@
   - [source命令](问题小记/20200810_source命令.md)
   - [python中的下划线](问题小记/20200912_python中的'_'.md)
   - [百度查询结果数量爬取](问题小记/百度查询结果数量爬取.md)
-  
 - **转载**
-  
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
-  
   - [CSS：padding、margin、border属性详解](转载/CSS：padding、margin、border属性详解.md)
-  
+- **python**
+  - [二分查找](data_structure&algorithm/1.1_二分查找.md)
+  - [选择排序](data_structure&algorithm/选择排序.md)
+  - [实现队列](data_structure&algorithm/实现队列.md)
+  - [实现单项链表](data_structure&algorithm/实现单项链表.md)
+  - [查找第k大的值](data_structure&algorithm/查找第k大的值.md)
+  - [堆和heapq模块](data_structure&algorithm/堆和heapq模块.md)
+- **android**
+  - [monkey与monkeyrunner](android/monkey与monkeyrunner.md)
+- **practice**
+  - [抓取百度汉语单字的词组](practice/抓取百度汉语单字的词组.md)
 - **杂**
   
   - [折腾dell笔记本win10](杂/折腾dell笔记本win10.md)
   
   - [喂蛋指南](杂/喂蛋指南.md)
-  
 - **404测试专用**
   
   - [测试用404页面](404测试.md)
