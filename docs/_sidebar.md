@@ -43,7 +43,6 @@
   - [pip|virtualenv|virtualenvwrapper](问题小记/20200803_pip等.md)
   - [source命令](问题小记/20200810_source命令.md)
   - [python中的下划线](问题小记/20200912_python中的'_'.md)
-  - [百度查询结果数量爬取](问题小记/百度查询结果数量爬取.md)
 - **转载**
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
@@ -59,8 +58,8 @@
   - [monkey与monkeyrunner](android/monkey与monkeyrunner.md)
 - **practice**
   - [抓取百度汉语单字的词组](practice/抓取百度汉语单字的词组.md)
+  - [百度查询结果数量爬取](practice/百度查询结果数量爬取.md)
 - **杂**
-  
   - [折腾dell笔记本win10](杂/折腾dell笔记本win10.md)
   
   - [喂蛋指南](杂/喂蛋指南.md)
