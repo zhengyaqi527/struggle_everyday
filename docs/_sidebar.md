@@ -42,8 +42,8 @@
   - [pip|virtualenv|virtualenvwrapper](问题小记/20200803_pip等.md)
   - [source命令](问题小记/20200810_source命令.md)
   - [python中的下划线](问题小记/20200912_python中的'_'.md)
-  - [Linux macOS 查看主机cpu信息](问题小记/20210617_linux mac查看主机cpu信息.md)
-  - [brew services](问题小记/20210526_brew services.md)
+  - [Linux、macOS查看主机cpu信息](问题小记/20210617_linux mac查看主机cpu信息.md)
+  - [brewservices](问题小记/20210526_brew services.md)
 - **转载**
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
