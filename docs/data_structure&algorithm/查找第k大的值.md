@@ -37,8 +37,8 @@ class KthLargest(object):
   - len(nums) < k，将item追加到nums中；
   - len(nums) >= k，比较nums[-1]与item：
     - nums[-1] < item，则将二者替换；
+    - nums[-1] >= item，不作处理
     
-  - nums[-1] >= item，不作处理
 
 再次将nums倒序排列，返回nums[-1]
 
@@ -50,7 +50,6 @@ class KthLargest(object):
     
     # 插入元素并返回第k大的值
     def add(self, item):
-        
         if len(self.nums) < self.k:
             self.nums.append(item)
         elif item > self.nums[-1]:
@@ -66,7 +65,7 @@ class KthLargest(object):
 
 使用小顶堆，python模块heapq
 先将全量列表nums逆序排列，取前k个元素，然后原地转为小顶堆；
-插入元素item时，先判断当前列表nums和k的大小：
+插入元素item时，先判断当前列表nums长度和k的大小：
 
  - 如果len(nums) < k，则直接将item加入小顶堆，heapq.heappush(nums, item)
  - 如果len(nums) >= k，则比较当前小顶堆中最小元素min（即nums[0]）和item：

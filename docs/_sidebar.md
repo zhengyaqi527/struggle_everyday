@@ -23,7 +23,6 @@
   - [正则表达式与文件格式化处理](linux/20200422_正则表达式与文件格式化处理.md)
   - [shell脚本](linux/20200426_shell脚本.md)
 - css入门之路
-
   - [01_how_css_works](css入门之路/01_how_css_works.md)
   - [02_how_css_is_structured](css入门之路/02_how_css_is_structured.md)
   - [03_cascade_and_inheriance](css入门之路/03_cascade_and_inheriance.md)
@@ -43,6 +42,8 @@
   - [pip|virtualenv|virtualenvwrapper](问题小记/20200803_pip等.md)
   - [source命令](问题小记/20200810_source命令.md)
   - [python中的下划线](问题小记/20200912_python中的'_'.md)
+  - [Linux macOS 查看主机cpu信息](问题小记/20210617_linux mac查看主机cpu信息.md)
+  - [brew services](问题小记/20210526_brew services.md)
 - **转载**
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
