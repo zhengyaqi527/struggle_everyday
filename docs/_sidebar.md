@@ -30,6 +30,7 @@
   - [05_Selectors_detail](css入门之路/05_Selectors_detail.md)
 - Flask
   - [01_初识Flask](Flask/01_初识Flask.md)
+  - [02_FLask和HTTP](Flask/02_Flask和HTTP.md)
 - **normal life**  
   - [Q2安排](normal_life/Q2安排.md)
   - [居住证办理](normal_life/居住证办理.md)
