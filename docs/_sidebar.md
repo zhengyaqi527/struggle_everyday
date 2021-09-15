@@ -31,6 +31,7 @@
 - Flask
   - [01_初识Flask](Flask/01_初识Flask.md)
   - [02_FLask和HTTP](Flask/02_Flask和HTTP.md)
+  - [03_模板和表单](Flask/03_模板和表单.md)
 - **normal life**  
   - [Q2安排](normal_life/Q2安排.md)
   - [居住证办理](normal_life/居住证办理.md)
