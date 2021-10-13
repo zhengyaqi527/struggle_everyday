@@ -32,6 +32,10 @@
   - [01_初识Flask](Flask/01_初识Flask.md)
   - [02_FLask和HTTP](Flask/02_Flask和HTTP.md)
   - [03_模板和表单](Flask/03_模板和表单.md)
+  - [04_数据库](Flask/04_数据库.md)
+  - [05_电子邮件](Flask/05_电子邮件.md)
+  - [06_实战留言板](Flask/06_实战留言板.md)
+  - [07_实战个人博客](Flask/07_实战个人博客.md)
 - **normal life**  
   - [Q2安排](normal_life/Q2安排.md)
   - [居住证办理](normal_life/居住证办理.md)
@@ -51,6 +55,9 @@
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
   - [CSS：padding、margin、border属性详解](转载/CSS：padding、margin、border属性详解.md)
+  - [Mac - 服务管理 launchd、launchctl、LaunchAgent、LaunchDaemon、brew services 详解](转载/Mac - 服务管理 launchd、launchctl、LaunchAgent、LaunchDaemon、brew services 详解.md)
+  - [将本地已有项目关联到 github 的新建的项目中](转载/将本地已有项目关联到 github 的新建的项目中.md)
+  - [Git 忽略规则. gitignore 不生效](转载/Git 忽略规则. gitignore 不生效)
 - **python**
   - [二分查找](data_structure&algorithm/1.1_二分查找.md)
   - [选择排序](data_structure&algorithm/选择排序.md)
