@@ -55,7 +55,7 @@
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
   - [CSS：padding、margin、border属性详解](转载/CSS：padding、margin、border属性详解.md)
-  - [Mac服务管理launchd、launchctl、LaunchAgent、LaunchDaemon、brew services详解](转载/Mac服务管理launchd、launchctl、LaunchAgent、LaunchDaemon、brew services详解.md)
+  - [Mac服务管理launchd、launchctl、LaunchAgent、LaunchDaemon、brewservices详解](转载/Mac服务管理launchd、launchctl、LaunchAgent、LaunchDaemon、brewservices详解.md)
   - [将本地已有项目关联到github的新建的项目中](转载/将本地已有项目关联到github的新建的项目中.md)
   - [Git忽略规则.gitignore不生效](转载/Git忽略规则.gitignore不生效.md)
 - **python**
