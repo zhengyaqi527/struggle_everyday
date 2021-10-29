@@ -51,7 +51,7 @@
   - [python中的下划线](问题小记/20200912_python中的'_'.md)
   - [Linux、macOS查看主机cpu信息](问题小记/20210617_linux、macos查看主机cpu信息.md)
   - [brew services](问题小记/20210526_brew_services.md)
-  - [flask-sqlalchemy中default和server_default对比](问题小记/flask-sqlalchemy中default和server_default对比.md)
+  - [20211029_flask-migrate中检测字段长度及默认值变化](问题小记/20211029_flask-migrate中检测字段长度及默认值变化.md)
 - **转载**
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
