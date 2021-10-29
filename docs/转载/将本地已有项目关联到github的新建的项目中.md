@@ -11,7 +11,7 @@
 ```
 git init
 git add .
-git git commit -m "commit current files"
+ git commit -m "commit current files"
 ```
 
 1、 将本地仓库与远程仓库关联起来
@@ -21,6 +21,8 @@ git remote add origin git@github.com:<github username>/<repository name>.git
 ```
 
 2、 然后需要先 pull 一下
+
+> pull之前先确认一下远程仓库的默认分支名是不是master，如果不是需要改为master
 
 ```
 git pull origin master --allow-unrelated-histories

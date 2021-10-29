@@ -51,6 +51,7 @@
   - [python中的下划线](问题小记/20200912_python中的'_'.md)
   - [Linux、macOS查看主机cpu信息](问题小记/20210617_linux、macos查看主机cpu信息.md)
   - [brew services](问题小记/20210526_brew_services.md)
+  - [flask-sqlalchemy中default和server_default对比](问题小记/flask-sqlalchemy中default和server_default对比.md)
 - **转载**
   - [github网页图片加载失败](转载/Github网页上图片显示失败.md)
   - [后selenium时代WebUI自动化测试框cypress](转载/后selenium时代WebUI自动化测试框cypress.md)
@@ -58,6 +59,7 @@
   - [Mac服务管理launchd、launchctl、LaunchAgent、LaunchDaemon、brewservices详解](转载/Mac服务管理launchd、launchctl、LaunchAgent、LaunchDaemon、brewservices详解.md)
   - [将本地已有项目关联到github的新建的项目中](转载/将本地已有项目关联到github的新建的项目中.md)
   - [Git忽略规则.gitignore不生效](转载/Git忽略规则.gitignore不生效.md)
+  - [flask-sqlalchemy中default和server_default对比](转载/flask-sqlalchemy中default和server_default对比.md)
 - **python**
   - [二分查找](data_structure&algorithm/1.1_二分查找.md)
   - [选择排序](data_structure&algorithm/选择排序.md)
